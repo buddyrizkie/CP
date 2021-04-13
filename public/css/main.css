@@ -1,0 +1,6 @@
+.sidebar {
+    overflow: hidden;
+}
+.minimize-sidebar .sidebar {
+    width: 60px;
+}
